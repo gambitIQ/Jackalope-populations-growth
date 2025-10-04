@@ -1,0 +1,1 @@
+This program simulates jackalope population growth across multiple generations. Starting from a user-defined initial population, it applies fixed birth and death rates each generation, then outputs the projected population. Users can repeat the calculation with new inputs.
